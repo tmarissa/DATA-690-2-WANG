@@ -21,22 +21,22 @@ ipynb - iteractive python notebook
 ## Chapter 1
 Python 
 - run slower, programmer time is as valuable as CPU
-- challenging language - concurrent multithreaded applications <br>
-<br>
-Global Interpreter Lock (GIL) - prevents the interpreter from executing more than one python instructions at a time.<br>
-<br>
+- challenging language - concurrent multithreaded applications 
+
+Global Interpreter Lock (GIL) - prevents the interpreter from executing more than one python instructions at a time.
+
 Essentials:
 - Numpy : numerical python
 - Pandas : high level data structure and functions designed to make working with structures or tabular data fast, easy, and expressive.
--- panel data : mutli-dimensional structural datasets
+  - panel data : mutli-dimensional structural datasets
 - Matplotlib : producting plots and 2 dimensional data visualization
 - IPython : interactive Python execute, explorer workflow
 - Jupyter : design language - agnostic interactive computing tools; exploratory computing; markdown & html
--- kernel : a programming language mode
+  - kernel : a programming language mode
 - SciPy : scientific computing
 - Scikit-learn : general purpose machine learning toolkit
 - Statsmodel : statistical analysis package
---Regression, Anova, AR
+  - Regression, Anova, AR
 
 ## Chapter 2
 
