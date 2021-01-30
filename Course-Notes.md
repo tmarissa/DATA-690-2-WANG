@@ -39,4 +39,48 @@ Essentials:
   - Regression, Anova, AR
 
 ## Chapter 2
+### Notes
+- >>> prompt
+- exit () or ctrl-D - exit Python and return to command prompt
+- $ python hello_world.py or %run hello_world.py
+- $ ipython = running the IPython Shell
+- tab completion = pressing Tab key will search the namespace for any variables matching the characters you have typed so far
+- a question mark (?) before or after a variable will display some general information
+about the object (p. 23)
+- Using ?? will also show the function’s source code (p 24)
+- A number of characters combined
+with the wildcard (*) will show all names matching the wildcard expression.  Example np.*load*? (p 24)
+- empty namespace (with no imports or other variables defined)so that the behavior should be identical to running the program on the command line (p 25)
+- Besides %run, %load can also be used
+- Copy and paste, use %paste whatever test is in the clipboard and executes it as a single block in the shell. While %cpaste has a special prompt for pasting code. It can paste as much code as needed before excuting it. Break the prompt by pressing Ctrl-C.
+- Standard IPython keyboard shorcuts (p 27)
+- Magic Commands (p 28-30) which is any command prefixed by the percent symbol %.
+- colon denotes the start of an indented code block after which all of the code must be indented by the same amount until the end of the block. Preferably use 4 spaces rather than tab.
+- semicolons use to separate multiple statements on a single
+line.
+- comments uses # (pound sign)
+- a//b floor-divide a by b, dropping any fractional remainder
+- a^b For booleans, True if a or b is True, but not both; for integers, take the bitwise EXCLUSIVE-OR
+- list, dicts, NumPy arrays, and user-defined classes are mutable. 
+- strings and tuples are immutable.
+- scalar (p 39) None, float, bytes, str, bool, int.
+- r stands for raw. Adding r in front of a string will add the backlashes. Ex. r'this\has' will become 'this\\has'
+- {0:.2f) first argument with floating point wiht 2 decimal {1:s} second argument with string {2:d} third argument exact
+- converting unicode string to UTF-8 bytes used ex: val.encode("utf-8"). b stands for bytes. Reversing uses decode (p 42)
+- strftime method formats a datetime as a string and converted (parsed) into datetime objects (p 45)
+- datetime format (p 45)
+- Control Flow
+  - if, elif, else
+  - for loops - iterating over a collection (list or tuple) or an iterator.
+  - while - specifies a condition and a block of code thqt is to be executed until condition is False or loop ended with a break.
+  - pass is the “no-op” statement in Python. It can be used in blocks where no action is to be taken (or as a placeholder for code not yet implemented); it is only required because Python uses whitespace to delimit blocks
+  - range - returns an iterator that yields a sequence of evenly spaced integers
+  - ternary expressions - true-expr and false-expr Ex. 'Non-negative' if x >= 0 else 'Negative'(p 49)
+
+
+
+
+
+
+
 
