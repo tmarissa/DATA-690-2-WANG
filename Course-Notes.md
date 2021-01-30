@@ -20,7 +20,7 @@ ipynb - iteractive python notebook
 
 ### Notes from class
 - python - 0 base index
-- Discussion on (01-Python-Basics.ipynb)[https://github.com/wcj365/python-stats-dataviz/blob/e81a8c558d656a866d3c71b4623df1b345db746c/01%20-%20Python-Basics.ipynb]
+- Discussion on [01-Python-Basics.ipynb](https://github.com/wcj365/python-stats-dataviz/blob/e81a8c558d656a866d3c71b4623df1b345db746c/01%20-%20Python-Basics.ipynb)
 
 # Notes from Textbook
 ## Chapter 1
