@@ -1,4 +1,5 @@
 # Session 1 January 28, 2021
+## Marissa Tan
 
 ## Textbook 
 [Python for Data Analysis by Wes McKinny Second Edition](https://github.com/chenomg/CS_BOOKS/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
@@ -16,6 +17,10 @@ ipynb - iteractive python notebook
 - pwd - present working direction
 - ls - listing
 - python filename.py
+
+### Notes from class
+- python - 0 base index
+- Discussion on (01-Python-Basics.ipynb)[https://github.com/wcj365/python-stats-dataviz/blob/e81a8c558d656a866d3c71b4623df1b345db746c/01%20-%20Python-Basics.ipynb]
 
 # Notes from Textbook
 ## Chapter 1
