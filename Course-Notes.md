@@ -7,13 +7,13 @@
 ipynb - iteractive python notebook
 
 ### Environments
-Functionality - Anaconda, Deep Note, Colab
-Developing - Deep Note
-Structural - github
+- Functionality - Anaconda, Deep Note, Colab
+- Developing - Deep Note
+- Structural - github
 
 ### Working on Deep Note
-root@deepnote/work #
-pwd - present working direction
-ls - listing
-python filename.py
+- root@deepnote/work #
+- pwd - present working direction
+- ls - listing
+- python filename.py
 
