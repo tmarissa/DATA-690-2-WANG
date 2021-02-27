@@ -1,4 +1,4 @@
-# Session 4 Assignment
+## Session 4 Assignment
 
 - Write code to open the text file census_cost.txt and read all lines into a list named "line_list". Print line_list.
 - Extract the first two lines and put them in a different list named "top2_list". You will need to use them later. Print the top2_list.
