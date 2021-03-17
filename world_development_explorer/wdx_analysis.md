@@ -20,7 +20,7 @@ While we look at the bar chart in comparison from 2000 to 2016, the population i
 The East Asian and Pacific countries' GDP per capita also increases with those of North American countries.
 ![2000 Bar Chart for GDP per capital](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2000%20Bar%20GDP.png)
 ![2016 Bar Chart for GDP per capital](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2016%20Bar%20GDP.png)
-However, the suicide mortality rate in East Asia and Pacific countries saw some reduction while those in United States steadily increases while Canada saw its suicide mortality rate maintained.
+However, the suicide mortality rate in East Asia and Pacific countries saw some reduction. Compared to those of North American countries, United States steadily increased and Canada saw its suicide mortality rate maintained.
 ![2000 Bar Chart for Suicide Mortality Rate](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2000%20Bar%20Suicide.png)
 ![2016 Bar Chart for Suicide Mortality Rate](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2016%20Bar%20Suicide.png)
 ## **Draw the Line**
