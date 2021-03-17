@@ -13,7 +13,7 @@ In the year 2016, China's GDP per capita leaped from slightly below $3,000 to sl
 A look at a 3D plot puts into perspective the shallowness and depthness of the 3D scatterplot. Philippines is the closes to the inner corner and has the lowest GDP per capital (x-axis) and suicide mortality rate (y-axis). On the population presentation (z-axis), China has the biggest population, while Singapore has the smallest population. On the suicide mortality rate, Japan is at the outmost of the y axis.
 ![2016 3D Scatterplot](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2016%203D.png)
 ## **Bar None** 
-“Bar None” meant no exceptions. There is no exceptions in this bar chart presentation. All countries are experiencing growth in GDP per capita, growth in population, and suicide mortality rate continues to plague the countries. 
+“Bar None” meant no exceptions. There is no exceptions in this bar chart presentation. All countries are experiencing growth in GDP per capita, growth in population (except Japan), and suicide mortality rate continues to plague the countries. 
 While we look at the bar chart in comparison from 2000 to 2016, the population in East Asia and Pacific countries continues to grow as well as those in North America. 
 ![2000 Bar Chart for Population](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2000%20Bar%20Pop.png)
 ![2016 Bar Chart for Population](https://github.com/tmarissa/DATA-690-WANG/blob/main/world_development_explorer/Charts/2016%20Bar%20Pop.png)
