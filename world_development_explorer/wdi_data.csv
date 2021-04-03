@@ -1,0 +1,36 @@
+,Year,NY.GDP.PCAP.PP.CD,SP.POP.TOTL,SH.STA.SUIC.P5,Country Code,Country Name,Region,Income Group,Lending Type
+0,2000,29265.2513176458,30685730,13.0,CAN,Canada,North America,High income,Not classified
+1,2005,36211.0845984165,32243753,13.2,CAN,Canada,North America,High income,Not classified
+2,2010,40019.9262502347,34004889,13.0,CAN,Canada,North America,High income,Not classified
+3,2015,44670.0805385838,35702908,12.5,CAN,Canada,North America,High income,Not classified
+4,2016,46472.3402486315,36109487,12.5,CAN,Canada,North America,High income,Not classified
+5,2000,2920.5607908636,1262645000,13.2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2005,5053.9457983316,1303720000,11.7,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2010,9253.7651876772,1337705000,10.9,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2015,12978.7689105711,1371220000,9.6,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2016,13572.6199886903,1378665000,9.7,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2000,4743.9446942792,211513823,3.9,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+11,2005,6254.614327014,226289470,3.8,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+12,2010,8505.7485348698,241834215,3.6,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+13,2015,10247.206377812,258383256,3.4,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+14,2016,10494.5604668313,261554226,3.4,IDN,Indonesia,East Asia & Pacific,Upper middle income,IBRD
+15,2000,26838.6913604846,126843000,24.7,JPN,Japan,East Asia & Pacific,High income,Not classified
+16,2005,31663.4530989772,127773000,24.9,JPN,Japan,East Asia & Pacific,High income,Not classified
+17,2010,34986.9945402402,128070000,24.4,JPN,Japan,East Asia & Pacific,High income,Not classified
+18,2015,40388.5527720976,127141000,19.4,JPN,Japan,East Asia & Pacific,High income,Not classified
+19,2016,39964.2770077463,126994511,18.5,JPN,Japan,East Asia & Pacific,High income,Not classified
+20,2000,3439.5388528218,77991755,2.5,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+21,2005,4370.373938272,86326250,2.6,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+22,2010,5626.2814004195,93966780,3.3,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+23,2015,7186.7688581811,102113212,3.2,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+24,2016,7703.7537290746,103663927,3.2,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+25,2000,43833.2209648019,4027887,12.4,SGP,Singapore,East Asia & Pacific,High income,Not classified
+26,2005,58717.2171521491,4265762,11.6,SGP,Singapore,East Asia & Pacific,High income,Not classified
+27,2010,75294.3565534751,5076732,10.0,SGP,Singapore,East Asia & Pacific,High income,Not classified
+28,2015,86974.7476230627,5535002,9.0,SGP,Singapore,East Asia & Pacific,High income,Not classified
+29,2016,89386.0793999319,5607283,9.9,SGP,Singapore,East Asia & Pacific,High income,Not classified
+30,2000,36334.9087770589,282162411,11.3,USA,United States,North America,High income,Not classified
+31,2005,44114.7477810544,295516599,11.9,USA,United States,North America,High income,Not classified
+32,2010,48467.5157769259,309321666,13.2,USA,United States,North America,High income,Not classified
+33,2015,56839.3817742317,320635163,15.0,USA,United States,North America,High income,Not classified
+34,2016,57951.5840820997,322941311,15.3,USA,United States,North America,High income,Not classified
