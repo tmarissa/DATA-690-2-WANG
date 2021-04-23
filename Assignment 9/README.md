@@ -1,4 +1,5 @@
-# **Assignment 9**  Point Estimate and Interval Estimate (Confidence Interval)
+# **Assignment 9**  <br>
+## Point Estimate and Interval Estimate (Confidence Interval)
 
 A random survey of enrollment at 35 community colleges across the United States yielded the following figures:<br>
 
